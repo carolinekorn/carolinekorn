@@ -4,7 +4,8 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 👩🏼‍💻 &nbsp; Develvolvedora Web Full Stack Jr. 
 - 🎓 &nbsp; Estudando Java.
-
+<br/>
+<br/>
 
 **💻 &nbsp; Linguagens, Banco de Dados e Frameworks**
 
@@ -47,7 +48,7 @@
    <br/>
     <br/>
      
-  ** 🛠️ &nbsp; Ferramentas**
+  🛠️ &nbsp; Ferramentas
   
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
