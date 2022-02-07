@@ -1,11 +1,9 @@
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
-
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 👩🏼‍💻 &nbsp; Develvolvedora Web Full Stack Jr. 
-- 🎓 &nbsp; Estudando Java, Web Full Stack Jr.
+- 🎓 &nbsp; Estudando Java.
 
 
 **Linguagens, Banco de Dados e Frameworks**
