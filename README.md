@@ -4,10 +4,11 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 👩 🏼‍💻Develvolvedora Web Full Stack Jr. 
 - 🎓 &nbsp; Estudando Java, Web Full Stack Jr.
 
 
-**Linguagens, Banco de Dados e FRameworks**
+**Linguagens, Banco de Dados e Frameworks**
 
    <a href="https://angular.io/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
@@ -45,9 +46,7 @@
    <a href="https://www.typescriptlang.org/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="javascript" width="40" height="40"/>
    </a>
-   
-  
-  
+   <br>
 
   
   **Ferramentas**
