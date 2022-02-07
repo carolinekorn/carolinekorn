@@ -55,4 +55,4 @@
  <br>
  <h3> 📨 &nbsp;Onde me encontrar: </h3> 
  
- [![Linkedin: CarolineKorndorfer](https://img.shields.io/badge/-Caroline Kornorfer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/caroline-kornd%C3%B6rfer-606b2a26/)
+ [![Linkedin: CarolineKorndorfer](https://img.shields.io/badge/-CarolineKornorfer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/caroline-kornd%C3%B6rfer-606b2a26/)
