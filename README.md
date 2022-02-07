@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-**💻 &nbsp; Linguagens, Banco de Dados e Frameworks**
+💻 &nbsp; Linguagens, Banco de Dados e Frameworks
 
    <a href="https://angular.io/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
@@ -45,8 +45,8 @@
    <a href="https://www.typescriptlang.org/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="javascript" width="40" height="40"/>
    </a>
-   <br/>
-    <br/>
+  <br/>
+  <br/>
      
   🛠️ &nbsp; Ferramentas
   
@@ -55,7 +55,7 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
  <br/>
-  <br/>
+ <br/>
  <h3> 📨 &nbsp; Onde me encontrar: </h3> 
  
  [![Linkedin: CarolineKorndorfer](https://img.shields.io/badge/-Caroline_Korndorfer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/caroline-kornd%C3%B6rfer-606b2a26/)
