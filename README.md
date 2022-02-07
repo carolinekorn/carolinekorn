@@ -4,7 +4,7 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 👩 🏼‍💻Develvolvedora Web Full Stack Jr. 
+- 👩🏼‍💻 &nbsp; Develvolvedora Web Full Stack Jr. 
 - 🎓 &nbsp; Estudando Java, Web Full Stack Jr.
 
 
